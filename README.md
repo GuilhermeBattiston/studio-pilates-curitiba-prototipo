@@ -9,7 +9,7 @@ Transformar a aula experimental no principal caminho de conversão, apresentando
 ## Conteúdo do protótipo
 
 - Página única responsiva para celular e computador
-- Chamada principal para agendar aula experimental
+- Chamada principal e botão fixo para agendar aula experimental diretamente pelo WhatsApp
 - Apresentação da Dra. Daniela C. Calachi, fisioterapeuta
 - Seção explicando uma possível jornada para a primeira visita
 - Links para os canais públicos do Studio
@@ -24,7 +24,9 @@ Transformar a aula experimental no principal caminho de conversão, apresentando
 
 ## Como visualizar
 
-Abra o arquivo `index.html` no navegador ou acesse a versão publicada pelo GitHub Pages.
+Acesse a versão publicada: [Studio Pilates Curitiba — protótipo](https://guilhermebattiston.github.io/studio-pilates-curitiba-prototipo/)
+
+O protótipo permanece configurado para não ser indexado por buscadores enquanto não houver aprovação do estabelecimento.
 
 ## Estrutura
 
