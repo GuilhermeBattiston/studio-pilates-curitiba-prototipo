@@ -24,12 +24,11 @@ Transformar a aula experimental no principal caminho de conversão, apresentando
 
 ## Como visualizar
 
-Abra o arquivo `dist/index.html` no navegador ou acesse a versão publicada pelo GitHub Pages.
+Abra o arquivo `index.html` no navegador ou acesse a versão publicada pelo GitHub Pages.
 
 ## Estrutura
 
 ```text
-dist/
 ├── index.html
 ├── style.css
 ├── app.js
